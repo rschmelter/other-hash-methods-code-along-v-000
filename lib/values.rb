@@ -12,5 +12,4 @@ def get_the_values(groceries)
   #code your solution here!
   new = groceries.values
   new.flatten
-  binding.pry
 end
